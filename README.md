@@ -1,6 +1,7 @@
 # pageDesign
 
-> 网页版海报排版设计
+> 网页版海报排版设计  
+> 基于<https://github.com/CB-ysx/pageDesign>修改
 
 ## 界面
 
@@ -11,10 +12,6 @@
 ## 动图
 
 ![3](/readme-file/3.gif)
-
-## 在线预览地址
-
-<http://pagedesign.codebear.cn/>
 
 
 
