@@ -1,7 +1,7 @@
 # pageDesign
 
 > 网页版海报排版设计  
-> 基于<https://github.com/CB-ysx/pageDesign>修改
+> 基于<https://github.com/CB-ysx/pageDesign>修改(VueCli框架升级等)
 
 ## 界面
 
